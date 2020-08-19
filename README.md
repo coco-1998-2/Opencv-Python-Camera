@@ -3,4 +3,4 @@ Take picture from usb camera per TimeInveral frame using OpenCV, save picture in
 
 Picture is named by the datetime it is taken.
 
-Mouse click the window first, press ESC to quit.
+Mouse click on the video window first, press ESC to quit.
