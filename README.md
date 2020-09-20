@@ -24,4 +24,4 @@ pip install azure-storage-blob
 
 # Camera 
 * Taobao lilnk：https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-22817599072.11.6b7d3eb89Bh2Q6&id=565432664593
-* Camera Windows/linux SDK： https://pan.baidu.com/s/1kWjYZgr    amcap is a software for testing.
+* Windows/linux SDK： https://pan.baidu.com/s/1kWjYZgr    amcap is a software for testing.
